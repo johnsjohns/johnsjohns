@@ -12,7 +12,6 @@ Tecnologias que eu estou aprendendo:<br>
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)<br><br>
-Redes sociais:<br>
-![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jgfigueira)
+
 
 
