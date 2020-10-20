@@ -1,5 +1,12 @@
 <h2>Ola! Bem vindo ao meu GitHub!</h2>
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsjohns&hide=html&layout=compact&theme=buefy" />
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsjohns&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=johnsjohns&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 
 Tecnologias que eu estou aprendendo:<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
