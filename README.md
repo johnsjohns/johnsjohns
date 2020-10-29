@@ -21,9 +21,3 @@ Tecnologias que eu estou aprendendo:<br>
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)<br><br>
 
 ![](https://komarev.com/ghpvc/?username=johnsjohns&color=blue&style=flat)
-
-
-
-
-
-
